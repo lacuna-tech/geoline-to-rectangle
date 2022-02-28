@@ -1,0 +1,7 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@lacuna/geoline-to-rectangle': file:../../.
+
+dependencies:
+  '@lacuna/geoline-to-rectangle': link:../..

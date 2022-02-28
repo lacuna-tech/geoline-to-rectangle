@@ -1,1 +1,1 @@
-export * from './src/geolineToRectangle'
+export { geolineToRectangle } from './src/geolineToRectangle.js'
