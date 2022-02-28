@@ -1,6 +1,6 @@
 {
   "name": "@lacuna/geoline-to-rectangle",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Thicken a geoline by a certain amount of meters to make a rectangle.",
   "main": "index.js",
   "typings": "index.d.ts",

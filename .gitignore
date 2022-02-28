@@ -1,1 +1,3 @@
 *.tgz
+.pnpm-debug.log
+/node_modules
