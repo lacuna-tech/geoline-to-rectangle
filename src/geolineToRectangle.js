@@ -1,3 +1,5 @@
+import { geopointToVector3, vector3ToLatLng } from './Vector3Transforms.js'
+
 const longLatArrToObj = ([longitude, latitude]) => ({latitude, longitude})
 const longLatObjToArr = ({longitude, latitude}) => [longitude, latitude]
 
